@@ -1,3 +1,3 @@
 # Delta-Demo
-Exploring Git/Github
-/n This is my first change
+Exploring Git/Github.
+This is my first change
